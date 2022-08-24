@@ -10,7 +10,7 @@ import Newsify from "../assets/portfolio/Newsify-image.jpg";
  }
 
  const handleClick2 = () =>{
-   window.open('https://github.com/kumarAyush23')
+   window.open('https://github.com/kumarAyush23/Portfolio-App')
  }
  const handleClick3 = () =>{
    window.open('https://github.com/kumarAyush23/Guess_My_Number')
@@ -28,10 +28,6 @@ import Newsify from "../assets/portfolio/Newsify-image.jpg";
           </p>
           <p className="py-6 text-2xl">Check out some of my work right here</p>
         </div>
-
-
-
-
 
    <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
             <div  className="shadow-md shadow-orange-900 rounded-lg">
